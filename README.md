@@ -23,12 +23,19 @@
 
 ---
 
-## 📊 Data Analytics & Business Intelligence  
+## 📊 Data Science, Analytics & Machine Learning  
 
-### 🔹 Data Manipulation & Processing  
+### 🔹 Data Processing & Analytics  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
 ![Dask](https://img.shields.io/badge/Dask-EE6A00?style=flat-square&logo=dask&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+
+### 🔹 Machine Learning & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FCC624?style=flat-square&logo=huggingface&logoColor=black)  
 
 ### 🔹 Data Visualization  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
@@ -52,9 +59,9 @@
 ---
 
 ## 🔍 Currently Working On  
-- **IndiaCityGDP** 📊 – A Data Visualization Project on Urban Economic Metrics (Infosys Internship)  
-- **Train Accident Data Analysis in India** 🚆 – Investigating causes & predictive modeling  
+- **Machine Learning & Data Analytics Projects for My Career in Data Science**, including:     
 - **AI-driven Medical Tips & Disease Prediction System** 🏥  
+- **Advanced Machine Learning Models** for predictive analytics and optimization  
 
 ---
 
