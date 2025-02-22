@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Yashwanth+Sai+Kasarabada!; 
- Aspiring+Data+Scientist+%7C+AI+%26+FinTech+Enthusiast;Turning+Data+Into+Insights!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Yashwanth+Sai+Kasarabada! ;Aspiring+Data+Scientist+%7C+AI+%26+FinTech+Enthusiast;Turning+Data+Into+Insights!">
 </p>
 
 ---
