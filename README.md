@@ -116,4 +116,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhackz360&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
 🚀 _Let's build something amazing together!_ 🚀
