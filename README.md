@@ -92,14 +92,14 @@
 ---
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yashhackz360&show_icons=true&theme=cobalt" width="400px"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhackz360&theme=cobalt" width="400px"></a>
+  <a href="https://github.com/yashhackz360"><img src="https://github-readme-stats.vercel.app/api?username=yashhackz360&show_icons=true&theme=cobalt" width="400px" alt="GitHub Stats"></a>
+  <a href="https://github.com/yashhackz360"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhackz360&theme=cobalt" width="400px" alt="GitHub Streak"></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhackz360&layout=compact&&theme=cobalt"></a>
+  <a href="https://github.com/yashhackz360"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhackz360&layout=compact&theme=cobalt" alt="Top Languages"></a>
 </p>
 
 ---
 
-🚀 _Let’s build something amazing together!_ 🚀  
+🚀 _Let’s build something amazing together!_ 🚀
