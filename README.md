@@ -68,11 +68,14 @@
 
 ---
 
+<!-- START_WORKING_ON -->
 ## 🔍 Currently Working On 🔍
 
 -   **Machine Learning & Data Analytics Projects for My Career in Data Science**, including:
     -   **AI-driven Medical Tips & Disease Prediction System** 🏥  
     -   **Advanced Machine Learning Models** for predictive analytics and optimization ⚙️  
+
+<!-- END_WORKING_ON -->
 
 ---
 
