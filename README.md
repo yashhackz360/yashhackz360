@@ -1,4 +1,4 @@
-## 🚀 Yashwanth Sai Kasarabada
+## !! Yashwanth Sai Kasarabada !! ##
 
 <p align="center">
   <img src="https://github.com/yashhackz360/yashhackz360/blob/main/assets/ai-brain-banner.gif" alt="Banner">
@@ -100,6 +100,6 @@
 
 <p align="center">
   <a href="https://github.com/yashhackz360">
-    <img src="https://img.shields.io/github/stars/yashhackz360?label=If%20You%20Like%20My%20Work%2C%20Consider%20a%20⭐&style=social" alt="GitHub Stars" />
+    
   </a>
 </p>
