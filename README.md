@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi +Myself Yashwanth+Sai+Kasarabada;ML+Enthusiast+%7C+Aspiring+Data+Scientist+%7C+AI+Developement+for+social+good;From+Raw+Data+to+Production−Ready">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+Yashwanth+Sai+Kasarabada;ML+Enthusiast+%7C+Aspring+Data+Scientist+%7C+AI+Developement+Societal+Good;From+Raw+Data+to+Production−Ready" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Yashwanth+Sai+Kasarabada;ML+Enthusiast+%7C+Aspiring+Data+Scientist+%7C+AI+Development+for+Social+Good;From+Raw+Data+to+Production−Ready+Solutions" alt="Typing SVG">
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yashwanth-sai-kasarabada-ba4265258/">
