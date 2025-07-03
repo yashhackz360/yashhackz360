@@ -12,19 +12,8 @@
 
 ---
 
-## 🚀 Core Expertise
-
-<div align="center">
-
-| **Domain**           | **Tech Stack**                                                                                                                                                     | **Visualization**                                                                                  |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Machine Learning** | ![Python](https://img.shields.io/badge/Python-Expert-%233776AB?logo=python) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Pro-%23FF6F00?logo=tensorflow) ![PyTorch](https://img.shields.io/badge/PyTorch-Pro-%23EE4C2C?logo=pytorch) | ![ML Workflow](https://github.com/yashhackz360/yashhackz360/blob/main/assets/ml-workflow.gif)     |
-| **Data Science**     | ![Pandas](https://img.shields.io/badge/Pandas-Advanced-%23150458?logo=pandas) ![SQL](https://img.shields.io/badge/SQL-Expert-%234479A1?logo=mysql) ![Spark](https://img.shields.io/badge/Spark-Intermediate-%23E25A1C?logo=apachespark) | ![Data Pipeline](https://github.com/yashhackz360/yashhackz360/blob/main/assets/data-pipeline.gif) |
-| **FinTech**          | ![QuantLib](https://img.shields.io/badge/QuantLib-Learning-%2300599C?logo=cplusplus) ![TA−Lib](https://img.shields.io/badge/TA−Lib-Intermediate-%230077B5) ![Backtrader](https://img.shields.io/badge/Backtrader-Intermediate-%230077B5) | ![Stock Analysis](https://github.com/yashhackz360/yashhackz360/blob/main/assets/stock-chart.gif)  |
-
-</div>
-
----
+🚀 Core Expertise
+<div align="center"> <table> <thead> <tr> <th><strong>Domain</strong></th> <th><strong>Tech Stack</strong></th> <th><strong>Visualization</strong></th> </tr> </thead> <tbody> <tr> <td><strong>Machine Learning</strong></td> <td> <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-Pro-FF6F00?logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-Pro-EE4C2C?logo=pytorch&logoColor=white" /> </td> <td> <img src="https://github.com/yashhackz360/yashhackz360/blob/main/assets/ml-workflow.gif" width="160" /> </td> </tr> <tr> <td><strong>Data Science</strong></td> <td> <img src="https://img.shields.io/badge/Pandas-Advanced-150458?logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-Expert-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Spark-Intermediate-E25A1C?logo=apachespark&logoColor=white" /> </td> <td> <img src="https://github.com/yashhackz360/yashhackz360/blob/main/assets/data-pipeline.gif" width="160" /> </td> </tr> <tr> <td><strong>FinTech</strong></td> <td> <img src="https://img.shields.io/badge/QuantLib-Learning-00599C?logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/TA−Lib-Intermediate-0077B5?logoColor=white" /> <img src="https://img.shields.io/badge/Backtrader-Intermediate-0077B5?logoColor=white" /> </td> <td> <img src="https://github.com/yashhackz360/yashhackz360/blob/main/assets/stock-chart.gif" width="160" /> </td> </tr> </tbody> </table> </div>
 
 ## 🛠️ Currently Building
 
