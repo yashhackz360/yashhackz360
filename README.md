@@ -1,108 +1,78 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Yashwanth+Sai+Kasarabada!;Aspiring+Data+Scientist+%7C+AI+%26+FinTech+Enthusiast;Turning+Data+Into+Insights!"><br>
-  <img src="https://komarev.com/ghpvc/?username=yashhackz360&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Yashwanth+Sai+Kasarabada;Data+Science+Professional+%7C+AI+%26+FinTech+Specialist;Transforming+Raw+Data+Into+Strategic+Insights">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashhackz360&label=Profile%20views&color=0e75b6&style=flat" alt="yashhackz360" /> 
+  <a href="https://www.linkedin.com/in/yashwanth-sai-kasarabada-ba4265258/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## ✨ About Me ✨
+## 🚀 Professional Profile
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE_(AI_&_Data_Science)@IIIT_Manipur-blueviolet" alt="Education">
-  <img src="https://img.shields.io/badge/Aspiring_Data_Scientist-brightgreen" alt="Role">
-</p>
+**B.Tech in Computer Science (AI & Data Science)** | IIIT Manipur  
+**Data Scientist** | **Machine Learning Engineer** | **Financial Data Analyst**
 
-🔹 **B.Tech CSE (AI & Data Science) at IIIT Manipur** 🎓  
-🔹 **Aspiring Data Scientist | Data Visualization Enthusiast** 🧑‍💻  
-🔹 **Passionate about Financial Data Analytics & AI for Social Good** ❤️  
-
-📊 I specialize in **Data Science, Machine Learning, and Data Analytics**, with a keen focus on extracting valuable insights from intricate datasets. My interests lie particularly in the dynamic realms of **FinTech**, **Urban Economics**, and **AI-driven solutions for societal betterment**. 🚀
+Specializing in predictive modeling, data visualization, and AI-driven solutions with expertise in:
+- Financial Technology & Quantitative Analysis
+- Machine Learning Operations (MLOps)
+- Big Data Processing & Cloud Computing
 
 ---
 
-## 🛠️ Skills & Technologies 🛠️
+## 🔧 Technical Expertise
 
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-</p>
-
----
-
-### 📊 Data Science, Analytics & Machine Learning
-
-<details>
-<summary>🔹 Data Processing & Analytics</summary>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Dask-EE6A00?style=flat-square&logo=dask&logoColor=white" alt="Dask">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-</p>
-</details>
-
-<details>
-<summary>🔹 Machine Learning & AI</summary>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FCC624?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
-</p>
-</details>
-
-<details>
-<summary>🔹 Data Visualization</summary>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-3782E5?style=flat-square&logo=python&logoColor=white" alt="Seaborn">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-</p>
-</details>
+### **Core Competencies**
+| **Category**               | **Technologies**                                                                 |
+|----------------------------|---------------------------------------------------------------------------------|
+| **Programming**            | Python, C++, SQL, R                                                             |
+| **Data Science**           | Pandas, NumPy, SciPy, Dask, Scikit-learn                                       |
+| **Machine Learning**       | TensorFlow, PyTorch, XGBoost, Hugging Face Transformers                        |
+| **Data Visualization**     | Power BI, Tableau, Matplotlib, Seaborn, Plotly, Streamlit                      |
+| **Big Data & Cloud**       | Apache Spark, AWS (S3, EC2), Google Colab                                      |
+| **Development Tools**      | Git, Docker, Jupyter Notebooks, VS Code                                        |
 
 ---
 
-<!-- START_WORKING_ON -->
-## 🔍 Currently Working On 🔍
+## 💼 Current Projects
 
--   **Machine Learning & Data Analytics Projects for My Career in Data Science**, including:
-    -   **AI-driven Medical Tips & Disease Prediction System** 🏥  
-    -   **Advanced Machine Learning Models** for predictive analytics and optimization ⚙️  
+### **AI-Driven Financial Analytics**
+- Developing predictive models for stock market trends using LSTM networks
+- Building automated trading signal systems with reinforcement learning
 
-<!-- END_WORKING_ON -->
+### **Healthcare AI Solutions**
+- Creating disease prediction systems with interpretable ML models
+- Implementing NLP for medical report analysis
+
+### **Open Source Contributions**
+- Maintaining Python libraries for financial data processing
+- Developing educational content for data science beginners
 
 ---
 
-## 🤝 Let’s Connect! 🤝
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashwanth-sai-kasarabada-ba4265258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:yashwanthkasarabada@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashhackz360&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhackz360&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhackz360&theme=algolia" alt="yashhackz360" />
 </p>
 
 ---
 
-### 🎯 Fun Fact 🎯
-
-💡 *“Data is the new oil, and I love refining it into powerful insights!”* 🚀  
-
----
+## 📫 Let's Collaborate
 
 <p align="center">
-  <a href="https://github.com/yashhackz360"><img src="https://github-readme-stats.vercel.app/api?username=yashhackz360&show_icons=true&theme=cobalt" width="400px" alt="GitHub Stats"></a>
-  <a href="https://github.com/yashhackz360"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhackz360&theme=cobalt" width="400px" alt="GitHub Streak"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yashhackz360"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhackz360&layout=compact&theme=cobalt" alt="Top Languages"></a>
+  <a href="mailto:yashwanthkasarabada@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yashwanth-sai-kasarabada-ba4265258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@yashwanthkasarabada"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
 
-🚀 _Let’s build something amazing together!_ 🚀
+> "In God we trust; all others must bring data." — W. Edwards Deming  
+> *Turning complex datasets into actionable business intelligence*
