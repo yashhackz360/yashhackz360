@@ -35,7 +35,7 @@
 
 ### 📊 Data Science & Machine Learning Stack
 
-#### 🔹 Data Processing & Analytics
+####   Data Processing & Analytics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
 </p>
 
-#### 🔹 Machine Learning & AI
+####  Machine Learning & AI
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Hugging%20Face-FCC624?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
 
-#### 🔹 Data Visualization
+####  Data Visualization
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
@@ -64,9 +64,9 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
----
 
-### 🛢️ Data Engineering Tools
+
+###  Data Engineering Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark">
@@ -76,9 +76,9 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
----
 
-### 🧰 DevOps & Tools
+
+###  DevOps & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
