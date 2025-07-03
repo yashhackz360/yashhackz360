@@ -1,12 +1,12 @@
-<h1 align="center">!! <strong>Yashwanth Sai Kasarabada</strong> !! </h1>
+<h1 align="center"><strong>Fail Fast! Learn Faster!</strong>  </h1>
 
 <p align="center">
   <img src="https://github.com/yashhackz360/yashhackz360/blob/main/assets/ai-brain-banner.gif" alt="Banner">
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Yashwanth+Sai+Kasarabada;ML+Engineer+%7C+FinTech+Data+Scientist+%7C+AI+Developer;From+Raw+Data+to+Production−Ready+AI">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Yashwanth+Sai+Kasarabada;ML+Engineer+%7C+FinTech+Data+Scientist+%7C+AI+Developer;From+Raw+Data+to+Production−Ready+AI" alt="Typing SVG">
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi +Myself Yashwanth+Sai+Kasarabada;ML+Enthusiast+%7C+Aspiring+Data+Scientist+%7C+AI+Developement+for+social+good;From+Raw+Data+to+Production−Ready">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+Yashwanth+Sai+Kasarabada;ML+Enthusiast+%7C+Aspring+Data+Scientist+%7C+AI+Developement+Societal+Good;From+Raw+Data+to+Production−Ready" alt="Typing SVG">
   </a>
 </p>
 
