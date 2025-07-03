@@ -1,4 +1,4 @@
-## !! Yashwanth Sai Kasarabada !! ##
+<h1 align="center">🚀 <strong>Yashwanth Sai Kasarabada</strong> 🚀</h1>
 
 <p align="center">
   <img src="https://github.com/yashhackz360/yashhackz360/blob/main/assets/ai-brain-banner.gif" alt="Banner">
