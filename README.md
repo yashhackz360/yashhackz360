@@ -26,16 +26,25 @@
 
 ---
 
-## 🚀 **Featured Projects**
+<!-- START_WORKING_ON -->
+## 🔍 Currently Working On 🔍
 
-<div align="center">
+-   **Machine Learning & Data Analytics Projects for My Career in Data Science**, including:
+    -   **AI-driven Medical Tips & Disease Prediction System** 🏥  
+    -   **Advanced Machine Learning Models** for predictive analytics and optimization ⚙️  
 
-  [![AI Financial Advisor](https://github-readme-stats.vercel.app/api/pin/?username=yashhackz360&repo=ai-financial-advisor&theme=radical&show_owner=true)](https://github.com/yashhackz360/ai-financial-advisor)
-  [![Medical Diagnosis AI](https://github-readme-stats.vercel.app/api/pin/?username=yashhackz360&repo=medical-diagnosis-ai&theme=radical&show_owner=true)](https://github.com/yashhackz360/medical-diagnosis-ai)  
-  [![Real−time Stock Predictor](https://github-readme-stats.vercel.app/api/pin/?username=yashhackz360&repo=stock-predictor&theme=radical&show_owner=true)](https://github.com/yashhackz360/stock-predictor)
-  [![Customer Churn Analysis](https://github-readme-stats.vercel.app/api/pin/?username=yashhackz360&repo=customer-churn-analysis&theme=radical&show_owner=true)](https://github.com/yashhackz360/customer-churn-analysis)
+<!-- END_WORKING_ON -->
 
-</div>
+---
+
+## 🤝 Let’s Connect! 🤝
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashwanth-sai-kasarabada-ba4265258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yashwanthkasarabada@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
+---
 
 ---
 
@@ -52,15 +61,6 @@
 
 </div>
 
----
-
-## 💡 **Latest Blog Posts**  <!-- If you have a blog -->
-
-- 🔍 [Optimizing Financial Models with Reinforcement Learning](https://medium.com/@yashwanthkasarabada)
-- 🏥 [Explainable AI for Medical Diagnosis](https://medium.com/@yashwanthkasarabada)
-- 📈 [Building Real-time Stock Prediction Systems](https://medium.com/@yashwanthkasarabada)
-
----
 
 <div align="center">
   
