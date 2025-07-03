@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello,+I'm+Yashwanth+Sai+Kasarabada;|+Aspiring+Data+Scientist+|+AI+for+Social+Good;Transforming+Raw+Data+into+Production-Ready+Solutions" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Hello,+I'm+Yashwanth+Sai+Kasarabada;Aspiring+Data+Scientist+|+AI+for+Social+Good;Transforming+Raw+Data+into+Production-Ready+Solutions" alt="Typing SVG">
 </p>
 
 
